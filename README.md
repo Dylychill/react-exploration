@@ -1,3 +1,9 @@
+# React Exploration Session
+This is the code we presented during the CSE 154 Exploration session 5/12/21. It contains a very simple counter button (`counter.js`), a broken counter example (`counter_broke.js`), and a simple use of conditional formatting (`hide.js`).
+
+[Slides](https://docs.google.com/presentation/d/1YmoPYt70OdhwWY_ZcJ70Qj_fIjHkXBYRkdngaVkdeRg/edit?usp=sharing) alongside this presentation made by Dylan McKone. Feel free to rip off any of the code here. This example project was made using the Create React App toolchain. The original ReadMe file information is down below.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
